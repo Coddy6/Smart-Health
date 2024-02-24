@@ -1,0 +1,94 @@
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Quality Helper.exe.config
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Quality Helper.exe.manifest
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Quality Helper.application
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Quality Helper.exe
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Quality Helper.pdb
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.barcodes.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.commons.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.forms.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.io.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.kernel.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.layout.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.pdfa.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.sign.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.styledxmlparser.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.svg.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itextsharp.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.Logging.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.Options.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.Primitives.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\MySql.Data.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Buffers.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Memory.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Numerics.Vectors.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.ValueTuple.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Google.Protobuf.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\ZstdNet.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.barcodes.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.commons.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.forms.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.io.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.kernel.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.layout.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.pdfa.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.sign.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.styledxmlparser.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itext.svg.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\itextsharp.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.Logging.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.Options.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\Microsoft.Extensions.Primitives.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\MySql.Data.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Buffers.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Memory.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Numerics.Vectors.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\bin\Release\System.ValueTuple.xml
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.csproj.AssemblyReference.cache
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.AgreagrExedienteAltas.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.AltasCitas.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.AltasDoctores.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.AltasPacientes.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.AltasRecepcionista.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.BusquedaCita.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.BusquedaDoctor.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.BusquedaExpediente.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.Busqueda_Paciente.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.BusquedaRecepcionista.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.ConsultaGenRecepcionista.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.ConsultasGenCitas.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.ConsultasGenDoctores.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.ConsultasGenPacientes.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.AltasExpedientes.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.MenuAdministrador.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.InicioSesion.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.MenuDoctor.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.Properties.Resources.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.Recepcionistas.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.RegistroAdmin.resources
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.csproj.GenerateResource.cache
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Quality Helper.exe.manifest
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Quality Helper.application
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Proyecto.csproj.CopyComplete
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Quality Helper.exe
+C:\Users\aspra\OneDrive\Escritorio\Quality helper\Proyecto\obj\Release\Quality Helper.pdb
